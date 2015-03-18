@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		18D2041E1AB9E11F00BF59AD /* FoodTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 18D2041D1AB9E11F00BF59AD /* FoodTableViewCell.m */; };
+		18D703021AB9FAE8006CCE95 /* DrinkTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 18D703011AB9FAE8006CCE95 /* DrinkTableViewCell.m */; };
 		18E43CCE1AB9C028007FCE79 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18E43CCD1AB9C028007FCE79 /* main.m */; };
 		18E43CD11AB9C028007FCE79 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18E43CD01AB9C028007FCE79 /* AppDelegate.m */; };
 		18E43CD41AB9C028007FCE79 /* OrderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18E43CD31AB9C028007FCE79 /* OrderViewController.m */; };
@@ -30,6 +31,8 @@
 /* Begin PBXFileReference section */
 		18D2041C1AB9E11F00BF59AD /* FoodTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FoodTableViewCell.h; sourceTree = "<group>"; };
 		18D2041D1AB9E11F00BF59AD /* FoodTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FoodTableViewCell.m; sourceTree = "<group>"; };
+		18D703001AB9FAE8006CCE95 /* DrinkTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DrinkTableViewCell.h; path = ../DrinkTableViewCell.h; sourceTree = "<group>"; };
+		18D703011AB9FAE8006CCE95 /* DrinkTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DrinkTableViewCell.m; path = ../DrinkTableViewCell.m; sourceTree = "<group>"; };
 		18E43CC81AB9C028007FCE79 /* HappyLunch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HappyLunch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18E43CCC1AB9C028007FCE79 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18E43CCD1AB9C028007FCE79 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -90,6 +93,8 @@
 				18E43CD31AB9C028007FCE79 /* OrderViewController.m */,
 				18D2041C1AB9E11F00BF59AD /* FoodTableViewCell.h */,
 				18D2041D1AB9E11F00BF59AD /* FoodTableViewCell.m */,
+				18D703001AB9FAE8006CCE95 /* DrinkTableViewCell.h */,
+				18D703011AB9FAE8006CCE95 /* DrinkTableViewCell.m */,
 				18E43CD51AB9C028007FCE79 /* Main.storyboard */,
 				18E43CD81AB9C028007FCE79 /* Images.xcassets */,
 				18E43CDA1AB9C028007FCE79 /* LaunchScreen.xib */,
@@ -225,6 +230,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18E43CD41AB9C028007FCE79 /* OrderViewController.m in Sources */,
+				18D703021AB9FAE8006CCE95 /* DrinkTableViewCell.m in Sources */,
 				18D2041E1AB9E11F00BF59AD /* FoodTableViewCell.m in Sources */,
 				18E43CD11AB9C028007FCE79 /* AppDelegate.m in Sources */,
 				18E43CCE1AB9C028007FCE79 /* main.m in Sources */,

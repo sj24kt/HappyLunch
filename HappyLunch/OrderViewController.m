@@ -10,6 +10,8 @@
 #import "FoodTableViewCell.h"
 
 @interface OrderViewController () <UITableViewDataSource, UITableViewDelegate, FoodTableViewCellDelegate>
+@property (strong, nonatomic) IBOutlet UIImageView *selectedFoodImageView;
+@property (strong, nonatomic) IBOutlet UIImageView *selectedDrinkImageView;
 
 @end
 
@@ -34,7 +36,7 @@ NSString * const kFoodCell = @"FoodCell";
 }
 
 - (void)foodTableViewCell:(id)cell didTapButton:(UIButton *)button {
-
+    self.selectedFoodImageView.image = button.imageView.image;
 
 }
 
