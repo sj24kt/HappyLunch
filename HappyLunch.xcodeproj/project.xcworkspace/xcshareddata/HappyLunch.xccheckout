@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D7CFD2D3-AF71-4227-B99D-157AE349B9A7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HappyLunch</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>256E43C2BF101BE31F70762DDF943425B328F933</key>
+		<string>github.com:sj24kt/HappyLunch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HappyLunch.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>256E43C2BF101BE31F70762DDF943425B328F933</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:sj24kt/HappyLunch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>256E43C2BF101BE31F70762DDF943425B328F933</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>256E43C2BF101BE31F70762DDF943425B328F933</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HappyLunch</string>
+		</dict>
+	</array>
+</dict>
+</plist>

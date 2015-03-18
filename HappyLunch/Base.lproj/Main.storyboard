@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6751" systemVersion="14C1510" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="gxp-Ym-7u9">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6751" systemVersion="14D98g" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="gxp-Ym-7u9">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+        <capability name="Alignment constraints with different attributes" minToolsVersion="5.1"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
     <scenes>
@@ -313,14 +314,14 @@
                                 <exclude reference="e28-hh-aum"/>
                             </mask>
                             <mask key="constraints">
+                                <exclude reference="C3B-PT-ESR"/>
                                 <exclude reference="mfS-JH-2eH"/>
+                                <exclude reference="0TO-XS-6jT"/>
                                 <exclude reference="6aT-yY-1a8"/>
                                 <exclude reference="H9r-Oh-ic5"/>
                                 <exclude reference="T09-ED-aSA"/>
                                 <exclude reference="Xbt-h0-c0o"/>
                                 <exclude reference="fPQ-jf-GH8"/>
-                                <exclude reference="0TO-XS-6jT"/>
-                                <exclude reference="C3B-PT-ESR"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -330,14 +331,14 @@
                                 <include reference="e28-hh-aum"/>
                             </mask>
                             <mask key="constraints">
+                                <include reference="C3B-PT-ESR"/>
                                 <include reference="mfS-JH-2eH"/>
+                                <include reference="0TO-XS-6jT"/>
                                 <include reference="6aT-yY-1a8"/>
                                 <include reference="H9r-Oh-ic5"/>
                                 <include reference="T09-ED-aSA"/>
                                 <include reference="Xbt-h0-c0o"/>
                                 <include reference="fPQ-jf-GH8"/>
-                                <include reference="0TO-XS-6jT"/>
-                                <include reference="C3B-PT-ESR"/>
                             </mask>
                         </variation>
                     </view>
