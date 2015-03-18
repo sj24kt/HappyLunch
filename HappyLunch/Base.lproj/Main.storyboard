@@ -178,6 +178,9 @@
                                                             <include reference="bMR-5l-qou"/>
                                                         </mask>
                                                     </variation>
+                                                    <connections>
+                                                        <action selector="onDrinkItemTapped:" destination="oqd-zG-XOB" eventType="touchUpInside" id="d83-dC-y8R"/>
+                                                    </connections>
                                                 </button>
                                                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3dP-B1-VJd">
                                                     <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -200,6 +203,9 @@
                                                             <include reference="NDs-j8-kpX"/>
                                                         </mask>
                                                     </variation>
+                                                    <connections>
+                                                        <action selector="onDrinkItemTapped:" destination="oqd-zG-XOB" eventType="touchUpInside" id="prm-JI-qTe"/>
+                                                    </connections>
                                                 </button>
                                             </subviews>
                                             <constraints>

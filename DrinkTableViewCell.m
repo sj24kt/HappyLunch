@@ -20,4 +20,11 @@
     // Configure the view for the selected state
 }
 
+// thread the delegate method
+- (IBAction)onDrinkItemTapped:(UIButton *)sender {
+
+    [self.delegate drinkTableViewCell:self didTapButton:sender];
+
+}
+
 @end
